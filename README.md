@@ -22,7 +22,7 @@ To install the application, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/E-Commerce Application.git
+    git clone https://github.com/Rutuja610/e-shop-application.git
     ```
 
 2. Navigate to the project directory:
